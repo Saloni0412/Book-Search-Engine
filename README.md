@@ -45,7 +45,8 @@ Once the app is running in nodeJS,
 - Please feel free to use the app - <a href="https://gentle-everglades-18771-dfd81d73fbda.herokuapp.com/" target="_blank">Link to the app</a>
 <br>
 The screenshot for the project is mentioned below.
-![Photo of the project](./images/localhost_3000_.png)
+![Alt Text](./images/localhost_3000_%20(1).png)
+
 
 
 ## Credits
