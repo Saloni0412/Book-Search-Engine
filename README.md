@@ -42,7 +42,7 @@ Once the app is running in nodeJS,
 - To save the book, you will have to ``sign up/login``. 
 - Once you login you can save the book using the ``save the book`` button and to see the books you saved open ``see your book `` from the navbar. 
 - You can also delete the book using ``delete this book`` button and it will be removed from the favorites. 
-Please feel free to use the app - <a href="https://gentle-everglades-18771-dfd81d73fbda.herokuapp.com/" target="_blank">Link to the app</a>
+- Please feel free to use the app - <a href="https://gentle-everglades-18771-dfd81d73fbda.herokuapp.com/" target="_blank">Link to the app</a>
 <br>
 The screenshot for the project is mentioned below.
 ![Photo of the project](./client/src/asset/localhost_3000_(1).png)
