@@ -36,7 +36,14 @@ To install this application you will need to download NODE JS and npm packages. 
 
 ## Usage
 
-Once the app is running in nodeJS, run ``npm run develop`` and it will compile the files and will open ``http://localhost:3001/`` in any browser, and you will have Book Search Engine. You can search for the book and it will give you all related searches, To save the book, you will have to sign up/login. Once you login you can save the book using the ``save the book`` button and to see the books you saved open ``see your book `` from the navbar. You can also delete the book using ``delete this book`` button and it will be removed from the favorites. Please feel free to use the app - <a href="https://ancient-eyrie-56589-14193d3f402a.herokuapp.com/" target="_blank">Link to the app</a>
+Once the app is running in nodeJS, 
+- run ``npm run develop`` and it will compile the files and will open ``http://localhost:3001/`` in any browser, and you will have Book Search Engine. 
+- You can search for the book and it will give you all related searches.
+- To save the book, you will have to ``sign up/login``. 
+- Once you login you can save the book using the ``save the book`` button and to see the books you saved open ``see your book `` from the navbar. 
+- You can also delete the book using ``delete this book`` button and it will be removed from the favorites. 
+Please feel free to use the app - <a href="https://gentle-everglades-18771-dfd81d73fbda.herokuapp.com/" target="_blank">Link to the app</a>
+<br>
 The screenshot for the project is mentioned below.
 ![Photo of the project](./client/src/asset/localhost_3000_%20(1).png)
 
