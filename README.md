@@ -14,7 +14,7 @@ The Book Search Engine is a web application that allows users to search for book
 
 ## Technologies Used
 
-JATE is built using the following technologies:
+Book Search Engine is built using the following technologies:
 
 - HTML
 - CSS
